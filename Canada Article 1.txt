@@ -1,0 +1,261 @@
+This article provides an integrated summary of recent changes in output, consumer prices and 
+employment. It highlights changes in the economic data during the second half of 2021 and 
+into early 2022. The article also draws on data sources that inform the economic conditions 
+facing businesses as the COVID-19 pandemic continues to evolve. The report is based on data 
+that are publicly available as of March 11, 2022.
+
+Monthly information on government, business and financial market developments, including 
+public health measures related to the pandemic, is available at Canadian Economic News 
+(Statistics Canada n.d.). For a recent overview of social and economic developments during 
+the pandemic, see COVID-19 in Canada: Year-end Update on Social and Economic Impacts 
+(Statistics Canada 2021) and COVID-19 in Canada: A Two-year Update on Social and Economic 
+Impacts (Statistics Canada 2022). Monthly commentary on economic developments related to 
+COVID-19 can be found at Canadian Economic Dashboard and COVID-19 (Statistics Canada n.d.).
+
+Overview
+The economic recovery strengthened during the second half of 2021 as output rebounded to 
+pre-COVID levels in the fourth quarter. Business stockpiling, higher export volumes, and 
+increases in residential and non-residential investment contributed to stronger economic 
+activity late in the year. Employment rose markedly during the second half while unemployment 
+and labour underutilization trended down toward pre-pandemic levels. Labour shortages and rising 
+input costs continue to cloud the business outlook. Headline consumer inflation accelerated in 
+the second half, surpassing the five percent mark in early 2022 for the first time in over 
+thirty years.
+
+Authors
+Sean Clarke and Guy Gellatly work with the Strategic Analysis, Publications and Training 
+division, Analytical Studies and Modelling Branch, Statistics Canada.
+
+Economic growth strengthens as exports and investment continue to recover
+Real gross domestic product rose 1.6% in the fourth quarter, after advancing 1.3% in the 
+third. Inventory buildups contributed substantially to growth in late 2021 as stockpiles 
+rose in manufacturing and wholesaling (Chart 1).
+
+Chart 1 Contributions to real GDP growt, selected components
+
+Data table for Chart 1
+Trade volumes ramped up in late 2021 as exports and imports posted their largest quarterly 
+increases since the economy emerged from the initial lockdowns. Total exports rose 3.2% in 
+the fourth quarter, up from 1.7% in the third. Goods exports rose 2.5%, led by higher shipments 
+of motor vehicles and parts. While exports of passenger cars and light trucks strengthened 
+late in the year, their volumes remained one-quarter below pre-pandemic levels as supply 
+disruptions continue to weigh on automakers and parts suppliers. Higher shipments of 
+consumer goods, metal ores and non-metallic minerals, and energy products also contributed 
+to stronger headline exports in the fourth quarter.
+
+Despite gains in five out of the last six quarters, goods exports remained 4% below pre-COVID 
+levels. Service exports, bolstered by higher receipts for travel services as cross-border 
+travel restrictions eased, rose steadily during the second half, but remained 12% below 
+their pre-pandemic baseline.
+
+After edging down in third quarter, total import volumes were up 3.4% in the fourth, led by 
+increases in motor vehicles and parts. Higher imports of consumer products, metal ores, and 
+communications equipment also supported the increase in headline imports.
+
+Non-residential business investment continues to recover. Combined outlays on structures 
+and machinery and equipment (M&E) have risen for six consecutive quarters, and, in late 2021, 
+were 6% below pre-pandemic levels (Chart 2).  Outlays on non-residential structures rose 2.7% 
+in the fourth quarter, but remain 10% below levels observed in late 2019. Business investment 
+in M&E, supported by higher spending on communications equipment, also rose late in the year, 
+recovering to pre-COVID levels. Spending on intellectual property products fell for the second 
+consecutive quarter.
+
+After scaling back for two quarters, investment in housing ramped up late in the year, led by 
+a double-digit increase in ownership transfer costs as resale activity strengthened. Renovation 
+activity also edged higher after a sharp decline in the third quarter. Total business outlays on 
+housing in late 2021 were 14% above pre-COVID levels.
+
+Chart 2 Real gross domesic product, selected aggregates
+
+Data table for Chart 2
+After rising sharply in the third quarter as COVID-19 restrictions eased, household spending 
+moderated in the fourth, edging up 0.2% as higher outlays on services offset lower spending 
+on goods. Canadians increased their spending abroad while outlays on food services declined 
+as restrictions in response to the Omicron variant were introduced late in the year. Total 
+household spending, supported by higher outlays on goods over the course of the pandemic, 
+has rebounded to its pre-COVID baseline.
+
+Nominal GDP rose 3.3% in the fourth quarter, up from 2.5% in the third. Canada’s terms of 
+trade improved late in the year, largely reflecting higher export prices for crude oil. Real 
+gross domestic income, which accounts for changes in the terms of trade and measures the 
+purchasing power of domestic production, rose 2.0% in the fourth quarter, and has outpaced 
+real GDP growth in five of the last six quarters.
+
+For 2021 as a whole, real GDP in Canada rose 4.6% after contracting by 5.2% in 2020. Real 
+GDP in the United States grew 5.7% in 2021, following a 3.4% decline in 2020.
+
+Economy-wide output rebounds to pre-COVID levels
+Economic output rose steadily from June to November, recovering to pre-COVID levels nineteen 
+months after the initial lockdowns in March and April 2020. Output was essentially unchanged 
+in December as tighter restrictions related to Omicron weighed on activity at client-facing 
+businesses. Overall, output growth in the fourth quarter was broad based, with 18 of 20 major 
+industrial sectors posting gains.
+
+Factory output rallied late in the year, buoyed by higher production at automakers and parts 
+suppliers. Monthly output at assembly plants rose steadily after September as production 
+disruptions eased, but remained almost about one-third below pre-pandemic levels at year end 
+(Chart 3). Total factory output  in December was 1.5% below levels observed in February 2020.
+
+Chart 3 Current output relative to pre-COVID levels (February 2020 to December 2021)
+
+Data table for Chart 3
+While wholesale activity rose steadily from August to December, retail volumes moderated late 
+in the year, with lower activity at brick and mortar stores at year end.  Sales at clothing 
+stores and furniture stores were heavily impacted by Omicron-related restrictions, as they 
+were earlier in the pandemic when public health measures tightened in response to the Beta 
+and Gamma variants.
+
+Homebuilding scaled back substantially after surging early in the year. After peaking in 
+April, residential building construction posted six declines over the next eight months, 
+ending the year 7% above pre-COVID levels (activity at April’s peak was one quarter above 
+its pre-pandemic baseline).
+
+While activity at real estate agents and brokers also scaled back after housing markets 
+surged in the spring, activity ramped up in October as resale activity strengthened.  
+With two modest declines to end the year, activity at agents and brokers remained almost 
+30% above pre-pandemic levels.
+
+Rail transportation declined late in the year after flooding in British Columbia impacted 
+carloadings in western Canada. While air transportation continued to recover steadily as 
+domestic and international travel picked up, volumes remain severely impacted by cross-border 
+travel restrictions.  Despite nine consecutive monthly increases, output in the air 
+transportation industry at year end was over one-half below levels observed in February 2020. 
+Accommodation services has risen for seven consecutive months, but remained 16% below pre-pandemic 
+levels.
+
+Activity at restaurants and bars moderated during the fall after surging in the late spring 
+and summer months. From June to August, volumes at these establishments ramped up rapidly as 
+households shifted to out-of-the-home expenditures following lockdowns in the spring.Note  
+Output at food services and drinking places then fell in September and October as restrictions 
+tightened in response to the Delta variant, and then again at year end as Omicron-related 
+measures came into effect. At year end, activity levels at these establishments were 12% below 
+their pre-COVID baseline.
+
+Output in the arts, entertainment and recreation sector remained about 25% below its pre-pandemic 
+level at year end, despite gains in six of the last seven months.
+
+Increases in resource extraction supported output growth during the second half of 2021. Mining, 
+quarrying and oil and gas extraction rose steadily from May to October, before back-to-back 
+declines to end the year. Output at year end was essential unchanged from pre-pandemic levels.
+
+Businesses continue to strengthen their capital plans
+Private sector organizations expect to spend almost 8% more on tangible assets in 2022 as 
+planned capital outlays rebounded to pre-COVID levels. Higher anticipated spending on 
+structures accounts for two thirds of the planned increase in private spending. Capital 
+intentions among public sector organizations are up almost 10% in 2022, and are currently 
+one-quarter above their pre-pandemic baseline.
+
+While public outlays have risen sharply in recent years, private sector spending on structures 
+and M&E has trended lower since oil prices fell sharply in the mid-2010s. Private intentions in 
+2022 remain nearly 10% below peak levels observed in 2014, when the growth in capital spending 
+was largely driven by higher outlays in Alberta.
+
+Chart 4 Capital expenditures on tangible assets, by selected industry
+
+Data table for Chart 4
+Despite strong upward pressure on oil and commodity prices, planned 2022 capital spending in 
+mining, quarrying and oil and gas extraction remain below levels observed before the pandemic. 
+At $43 billion, mining, oil and gas intentions are up about 20% from 2021 levels, but still 6% 
+below levels in 2019, and over 50% below peak levels reported in 2014. Capital intentions among 
+manufacturers in 2022 are little changed from 2021 spending levels, with lower planned spending 
+on structures offsetting higher outlays on machinery and equipment. Total 2022 intentions in 
+manufacturing remain 7% below their 2019 pre-pandemic baseline.
+
+Rising input costs and labour shortages cloud the outlook
+The most recent data from the Canadian Survey on Business Conditions suggest that obstacles 
+related to input costs and workforce recruitment and retention are becoming more widespread. 
+One half of businesses in the first quarter of 2022 expect rising costs related to labour, 
+capital, energy or materials to be an obstacle in the coming months, up from 43% in late 2021. 
+This includes almost three quarters of manufacturers and two thirds of businesses in accommodation 
+and food services. In addition, over one third of businesses anticipate obstacles related to 
+transportation and insurance costs.
+
+Chart 5 Anticipated business obstacles over the next three months
+
+Data table for Chart 5
+Similarly, 37% of businesses in the first quarter expect labour shortages to be an obstacle 
+over the next three months, compared with 33% in late 2021. This includes almost one half of 
+businesses in manufacturing and construction, and nearly two thirds of those in accommodation 
+and food services.Note Nearly four in ten businesses anticipate challenges recruiting skilled 
+employees.
+
+Many businesses are adjusting their wage plans. Over four in ten expect to raise wages for 
+existing employees over the next year, including over 60% of businesses in accommodation 
+and food services.
+
+Headline consumer inflation at a thirty year high
+Headline consumer inflation accelerated during the second half of 2021, surpassing the five 
+percent mark in January 2022 for the first time in over three decades.  January marked the 
+tenth consecutive month that the headline rate has been above three percent, and its sixth 
+consecutive month above four percent.  During this period, higher prices for gasoline, 
+shelter, consumer durables and food have all put upward pressure on headline inflation, 
+as supply disruptions coupled with strong demand have continued to fuel price growth.Note
+
+Higher gasoline prices continue to impact the pace of consumer inflation. Prices at the pump, 
+measured year-over-year, were up 31.7% in January, the eleventh straight month of annual increases 
+above the 30 percent mark.Note Excluding gasoline, consumer prices rose 4.3% in January, the largest 
+yearly increase since this index became available in the late 1990s. Higher prices for food and shelter 
+have contributed to this acceleration, with annual increases for both outpacing the headline rate.
+
+Food prices have risen steadily in recent months, and were up 5.7% on a year-over-year basis in 
+January. Grocery prices, up 6.5%, posted their largest yearly increase since 2009. Annual price 
+increases for beef remained in double-digit territory for the fifth consecutive month, while those 
+for fresh fruit rose above 8% to start the year.
+
+Higher housing-related costs continue to bolster headline inflation. Prices for owned accommodation 
+rose 6.1% in the twelve months to January, as annual increases in the homeowners’ replacement cost 
+index, which partly reflect prices for new homes, remained in double-digit territory for the ninth 
+consecutive month. Annual prices increases for rented accommodation rose above the three percent 
+mark in January for the first time since late 2019.
+
+Consumer inflation has outpaced average wage growth since early 2021. In January, average hourly 
+wages, adjusted for changes in the composition of employment due to the pandemic, were up 2.7% on 
+a year-over-year basis. Without adjustment, average wages rose 2.4%, less than half the pace of 
+headline inflation.Note Both measures of annual wage growth rose at a faster pace in February.
+
+Chart 6 Anticipated business obstacles over the next three months
+
+Data table for Chart 6
+Strong employment growth as economic activity ramps up
+Employment rose markedly during the second half of 2021 as unemployment and labour underutilization 
+trended back toward pre-pandemic levels. Net employment gains from May to December totaled 
+nearly 800,000 as economic activity ramped up in the wake of tighter restrictions related to 
+the Gamma variant in the spring. Total employment rebounded to its pre-COVID baseline in 
+September, and then rose by an additional quarter of a million in the fourth quarter.
+
+Employment among core-age workers and youth rose substantially during the second half of 2021. 
+At year end, the employment rate among core-age workers was 84.2%, one percentage point above 
+its pre-pandemic baseline, reflecting strong cumulative job gains among both core-age men and 
+core-age women (Chart 7). Employment rates among young men and women also fully recovered to 
+pre-pandemic levels.
+
+Sharp differences in the pace of the employment recovery continued to persist across major 
+industrial sectors. At the end of 2021, cumulative employment losses in accommodation and 
+food services remained over 200,000, while employment in retail trade had recovered to its 
+pre-pandemic level, bolstered by gains during the fall. In contrast, employment in professional, 
+scientific and technical services at year end was over 180,000 above levels reported in 
+February 2020.
+
+Chart 7 Anticipated business obstacles over the next three months
+
+Data table for Chart 7
+Employment rebounds as Omicron-related restrictions ease
+Total employment fell by 200,000 in January as tighter restrictions in response to the 
+Omicron variant impacted client-facing sectors. Lower employment among youth accounted 
+for over two thirds of the headline decrease, while losses in accommodation and food services 
+totaled 113,000. The unemployment rate increased to 6.5% due to a sharp rise in temporary 
+layoffs, while workplace absences due to illness or disability rose to record levels
+
+Omicron’s impact on the labour market was short-lived. Employment surged in February, more 
+than offsetting January’s headline decrease. Total employment rose by 337,000, led by gains 
+among core-age workers and youth. Gains in accommodation and food services fully offset 
+steep losses in January, while employment in information, culture and recreation services 
+rose above pre-COVID level for the first time. Professional, scientific and technical services 
+and construction also posted notable gains.
+
+The unemployment rate fell to 5.5% in February, edging below its pre-pandemic baseline, 
+while the rate among core-age workers declined to 4.4%. The employment rate among core-age 
+men rose to a 40-year high and was at record levels among core-age women.
+
+Workplace absences declined sharply in February, while total hours worked surpassed its 
+pre-pandemic baseline, also reaching a record high.

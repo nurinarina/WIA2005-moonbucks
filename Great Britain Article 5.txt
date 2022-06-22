@@ -1,0 +1,663 @@
+Crime in England and Wales: year ending September 2021
+Crime against households and adults using data from police recorded crime and the new Telephone-operated 
+Crime Survey for England and Wales. Includes the impact of the coronavirus (COVID-19) pandemic on 
+crime and people’s perceptions of crime during the October 2020 to September 2021 interview periods.
+
+Notice
+This is an accredited National Statistic. Click for information about types of official statistics.Contact:
+EmailMeghan ElkinRelease date:
+27 January 2022
+Next release:
+28 April 2022
+Table of contents
+Main points
+Overall estimates of crime
+Homicide
+Knife or sharp instrument offences
+Offences involving firearms
+Violence
+Domestic abuse and sexual offences
+Theft offences
+Fraud
+Computer misuse
+Anti-social behaviour
+Crime data
+Glossary
+Measuring the data
+Strengths and limitations
+Related links
+Print this statistical bulletin 
+
+
+1.Main points
+Patterns of crime in the year ending September 2021 have been significantly affected by the coronavirus 
+(COVID-19) pandemic and government restrictions on social contact. There was significant variation in 
+the level of restrictions in place across this time period and, at times, further variation across 
+regions. This creates a challenge in isolating the level of impact that restrictions may have had on 
+patterns of crime.
+
+The number of incidents decreased for many types of crime during periods of national lockdowns. However, 
+police recorded crime data show indications that over the last six months, certain offence types are 
+returning to or exceeding the levels seen before the pandemic. This pattern has not yet emerged in the 
+Telephone-operated Crime Survey for England and Wales (TCSEW)1 data, possibly reflecting the time lag 
+in recording incidents via the survey.
+
+Fraud and computer misuse offences do not follow the lockdown-related pattern of reduced victimisation, 
+and increases in these offences more than offset the reductions seen for other types of crime.
+
+Overall, Crime Survey for England and Wales (CSEW) estimates provide the best indicator of long-term 
+trends in crime. Estimates from the TCSEW for the year ending September 2021 compared with the 
+pre-coronavirus year ending September 20192 show:
+
+a 14% increase in total crime, driven by a 47% increase in fraud and computer misuse
+crime excluding fraud and computer misuse decreased by 14%, largely driven by an 18% decrease in theft 
+offences
+The TCSEW shows little change in total number of incidents of violence but a 27% decrease in the number 
+of victims of violent crime. This is largely driven by falls in violence where the offender was a stranger3, 
+where the number of victims has dropped by 50%, in part reflecting the closure of the night-time economy 
+for several months of the year.
+
+Police recorded crime data give more insight into lower-volume but higher-harm crimes that the survey 
+does not cover or does not capture well. Compared with the year ending September 2020 they show:
+
+little change in the number of homicides, with 666 offences recorded (this is a 5% increase excluding 
+the Grays lorry incident)
+a 9% decrease in the number of police recorded offences involving firearms
+a 10% decrease in offences involving knives or sharp instruments (knife-enabled crime)
+Sexual offences recorded by the police were at the highest level recorded within a 12-month period 
+(170,973 offences) in the year ending September 2021, a 12% increase from the same period in 2020. Rape 
+accounted for 37% of these offences and the year ending September 2021 saw the highest recorded annual 
+number of rape offences to date (63,136 offences).
+
+Within these annual figures, the number of recorded sexual and rape offences were lower during periods 
+of lockdown but there have been substantial increases since April 2021. However, caution is needed when 
+interpreting the level of police recorded sexual offences. Changes in the figures may reflect a number of 
+factors including the impact of high-profile cases and campaigns on victims’ willingness to report incidents.
+
+Notes for: Main points
+The Telephone-operated Crime Survey for England and Wales (TCSEW) began data collection on 20 May 2020 to 
+capture trends in crime while normal face-to-face interviewing was suspended.
+
+The year ending September 2019 face-to-face Crime Survey for England and Wales (CSEW) data are the latest 
+that are based on a sample that is independent of the year ending September 2021 Telephone-operated Crime 
+Survey for England and Wales (TCSEW) and allow for comparison over time.
+
+This is not indicative of levels of domestic abuse during the pandemic. Information on domestic abuse can 
+be found in Section 7.
+
+Back to table of contents
+2.Overall estimates of crime
+!
+Crime estimates for the year ending September 2021 best reflect the current extent of crime experienced by 
+the population resident in households (Appendix Table A2). However, new telephone-based survey (TCSEW) 
+estimates are not directly comparable with previous survey (CSEW) estimates because of changes to the sample 
+
+and questionnaire (see Section 14). Percentage changes and long-term trends are presented using figures adjusted 
+for these differences (Appendix Table A3).
+
+The Telephone-operated Crime Survey for England and Wales (TCSEW) began data collection on 20 May 2020 to 
+capture trends in crime while normal face-to-face interviewing was suspended following restrictions on social 
+contact during the coronavirus (COVID-19) pandemic.
+
+According to TCSEW estimates, adults aged 18 years and over experienced 12.9 million offences in the year ending 
+September 2021 (Appendix Table A2) including fraud and computer misuse. There were decreases across a range of 
+individual crime types, particularly amongst theft offences. However, these were more than offset by rises in fraud 
+and computer misuse offences (see Section 9), resulting in a 14% increase in overall levels of crime since the year 
+ending September 2019.
+
+Total crime excluding fraud and computer misuse decreased by 14% compared with the year ending September 2019. 
+This was largely driven by an 18% decrease in theft offences (Appendix Table A3). These decreases were related to 
+the coronavirus pandemic and government instructions to limit social contact.
+
+For the crime types and population it covers, the face-to-face Crime Survey for England and Wales (CSEW) is a better 
+indicator of long-term trends than police recorded crime. It is unaffected by changes in levels of reporting to the 
+police or police recording practices. Our comparability report has shown that TCSEW estimates can be directly compared 
+with these long-term CSEW estimates when certain adjustments are applied (Appendix Table A3).
+
+Further information on these changes is available in the Measuring the data section.
+
+Since the mid-1990s, there have been long-term falls in overall CSEW crime estimates (Figure 1). Long-term trends 
+vary by crime types. For all headline figures, including a data time series, see Appendix tables.
+
+Figure 1: Crime estimates from the CSEW December 1981 to March 2020, and TCSEW estimates for October 2020 to 
+September 2021 interviews
+England and Wales, annual estimates
+Rises in crime levels during the 90swere mainly due to increases inviolence, vehicle-related theft andburglary.
+Excluding fraud and computer misuse,we have seen continued falls in overalllevels of crime over recent decades.
+In March 2020 face-to-faceinterviewing was suspendeddue to COVID-19 causing a breakin the CSEW time series.
+Estimates fromthe TCSEW arecompared withthe year endingSeptember 2019CSEW usingcomparable dataand are not part 
+of the main CSEWtime series.
+CSEW estimates excluding fraud and computer misuseCSEW estimates including fraud and computer misuseSep 21(TCSEW)
+Mar 18Mar 12Mar 06Dec 97Dec 8105,00010,00015,00020,00025,000Number of incidents (thousands)
+Source: Office for National Statistics - Crime Survey for England and Wales (CSEW) and the Telephone-operated Crime 
+Survey for England and Wales (TCSEW)
+Notes:
+Data from the TCSEW are published as Experimental Statistics.
+Data on this chart refer to different time periods: 1981 to 1999 refer to crimes experienced in the calendar year; 
+and from year ending March 2002 onwards the estimates relate to crimes experienced in the 12 months before interview, 
+based on interviews carried out in that financial year.
+TCSEW data presented here for 2021 are not comparable with CSEW estimates. CSEW data relate to adults aged 16 years 
+and over or to households. TCSEW data relate to adults aged 18 years and over or to households. See Appendix Table A3 
+for comparable data.
+New questions on fraud and computer misuse were incorporated into the CSEW from October 2015. The questions were asked 
+of half the survey sample from October 2015 until September 2017 and have been asked of a full sample from October 2017.
+Download this chartFigure 1: Crime estimates from the CSEW December 1981 to March 2020, and TCSEW estimates for October 
+2020 to September 2021 interviews
+Image .csv .xls
+Likelihood of victimisation
+The latest estimates show that 8 in 10 adults did not experience any of the crimes covered by the TCSEW in the year 
+ending September 2021 (Figure 2).
+
+Figure 2: The likelihood of being a victim of crime varies by crime type
+England and Wales, October 2020 to September 2021 interviews
+% of adults who experienced a crime% of adults who did not experience a crimeAll TCSEW crimeFraudComputer misuseCriminal 
+damageVehicle-related theftViolenceDomestic burglaryBicycle theftTheft from the personRobbery0102030405060708090100%
+Source: Office for National Statistics - Telephone-operated Crime Survey for England and Wales (TCSEW)
+Notes:
+Data from the TCSEW are published as Experimental Statistics.
+Percentages for violence, robbery, theft from the person, fraud and computer misuse are quoted for adults. Percentages 
+for domestic burglary and criminal damage are quoted for households. Percentage for vehicle-related theft and bicycle 
+theft are quoted for vehicle- or bicycle-owning households.
+For all TCSEW crime, including fraud and computer misuse, this is the estimated percentage of adults who have been a 
+victim of at least one personal crime or have been resident in a household that was a victim of at least one household crime.
+Download this chartFigure 2: The likelihood of being a victim of crime varies by crime type
+Image .csv .xls
+The TCSEW also showed that the likelihood of being a victim of crime varied by demographic characteristics. For more 
+information, see the annual trend and demographic tables.
+
+Trends in police recorded crime
+!
+Improvements to recording processes and practices by the police, expansions of the recorded crime collection to include 
+new offences, variations in police activity, more victims reporting crime, and genuine increases in some types of crime, 
+have each made substantial contributions to rises in recorded crime in recent years. This effect has been more pronounced 
+for some crime types. For some types of offence these figures do not provide reliable trends in crime.
+
+The police recorded 5.8 million crimes in England and Wales in the year ending September 2021; this is a 2% increase compared 
+with the previous year. However, the number of offences fell 1% (to 4.9 million) when excluding fraud and computer misuse.
+
+Police recorded crime has fluctuated across the year ending September 2021 and hides a lot of variation by crime type. 
+Most of the fluctuations can be attributed to the introduction and subsequent easing of national lockdown restrictions 
+throughout the year alongside more normal seasonal variations for some crime types.
+
+Total police recorded crime (excluding fraud and computer misuse) in the year ending September 2021 saw the lowest levels 
+of crime during the first part of the year compared with the two years prior. This coincides with the reintroduction of 
+tighter restrictions on social contact and national lockdowns put in place. The number of offences recorded in a single 
+month was lowest in February 2021 (333,740 offences), but began to rise from March 2021 onwards as national restrictions 
+began to ease (Figure 3).
+
+Compared with the previous year, recorded crime between July and September 2021 was 6% higher than the same period in 2020, 
+reflecting a similar rise seen in the previous quarter (April to June 2021). This increase was likely a reflection of the 
+national restrictions in place during these periods. Levels of crime between July and September 2021 have now returned to 
+similar levels seen in July to September 2019.
+
+Total police recorded crime including fraud and computer misuse followed a similar but less pronounced 
+pattern to crime 
+that excludes these offences. Offences recorded by Action Fraud or referred to the National Fraud 
+Intelligence Bureau 
+(NFIB) were 24% higher in the year ending September 2021 compared with the year ending September 2020.
+
+Figure 3: Police recorded crime (excluding fraud and computer misuse) fluctuated with changes in national 
+lockdown restrictions
+England and Wales, monthly figures (October 2018 to September 2019, October 2019 to September 2020, and 
+October 2020 to September 2021)
+Year ending September 2019Year ending September 2020Year ending September 
+2021SepAugJulJunMayAprMarFebJanDecNovOct0100,000200,000300,000400,000500,000Number of offences
+Source: Home Office – Police recorded crime
+Notes:
+Police recorded crime data are not designated as National Statistics.
+Download this chartFigure 3: Police recorded crime (excluding fraud and computer misuse) fluctuated with 
+changes in national lockdown restrictions
+Image .csv .xls
+Information on case outcomes can be found in Home Office Crime outcomes in England and Wales.  
+
+Overview of main crime types¹ ²
+England and Wales
+Offence	Number of
+incidents/
+offences ³	Annual %
+change ⁴ ⁵ ⁶		Comparison
+year	Source
+Violence	1,846,000	-2		2019	TCSEW/CSEW
+Homicide	666	-1		2020	PRC
+Knife or sharp instruments	46,239	-10		2020	PRC
+Theft	2,950,000	-18	[s]	2019	TCSEW/CSEW
+Burglary	258,594	-21		2020	PRC
+Vehicle offences	342,627	-14		2020	PRC
+Robbery	61,486	-18		2020	PRC
+Fraud	5,114,000	36	[s]	2019	TCSEW/CSEW
+Computer misuse	1,869,000	89	[s]	2019	TCSEW/CSEW
+Source: Office for National Statistics – Crime Survey for England and Wales (CSEW) and the Telephone-operated 
+Crime Survey for England and Wales (TCSEW), Home Office - Police recorded crime (PRC)
+
+Notes
+
+Police recorded crime data are not designated as National Statistics.
+Data from the Telephone-operated Crime Survey for England and Wales are published as Experimental Statistics, 
+which are in the testing phase and not yet fully developed.
+These estimates best reflect the current extent of crime but are not directly comparable with CSEW estimates 
+because of changes to the TCSEW sample and questionnaire.
+Presents our best estimate of percentage changes between TCSEW and CSEW with the use of comparable subsets 
+of survey data with the following changes
+Percentage changes for crime survey estimates are based on newly created comparable CSEW/TCSEW datasets.
+[S]: this change is statistically significant at the 5% level.
+Download this tableOverview of main crime types¹ ²
+.xls .csv
+Back to table of contents
+3.Homicide
+The police recorded 666 homicide offences in the year ending September 2021, a 1% decrease the previous year 
+(671 offences). The year ending September 2020 included the Grays lorry incident, which involved the death of 
+39 people. Excluding this incident from the previous year’s homicide count, the number of homicides showed a 
+5% increase (from 632 to 666 offences) in the year ending September 2021.
+
+Figure 4: Homicide decreased by 1% in the latest year (5% increase excluding Grays lorry incident)
+England and Wales, year ending March 2003 to year ending September 2021
+2003:173 victims ofHarold Shipmanare recorded.
+July 2005:52 victims ofLondon bombings.
+April 2016:96 victims ofHillsboroughare recorded.
+June 2017:8 victims of LondonBridge terror attack.
+March 2017:5 victims ofWestminsterterror attack.
+October 2019:39 victims founddead insidelorry in Essexare recorded.
+May 2017:22 victims ofManchester Arenabombing.
+Sep 21Mar 18Mar 16Mar 14Mar 12Mar 10Mar 08Mar 06Mar 0402505007501,0001,250Number of offences
+Source: Home Office – Police recorded crime
+Notes:
+The dates shown for the London terrorist attacks in 2005 and 2017, and the Manchester Arena bombing in 2017, 
+correspond to when the events occurred, rather than when the homicides were recorded by the police.
+Data on homicide offences given in these police recorded crime data will differ from data from the Home Office 
+Homicide Index.
+Download this chartFigure 4: Homicide decreased by 1% in the latest year (5% increase excluding Grays lorry 
+incident)
+Image .csv .xls
+The rate of homicide in England and Wales remained at 11 per 1 million people in the year ending September 
+2021.
+
+The number of homicides where a knife or sharp instrument was involved increased from 256 to 276 offences in 
+the year ending September 2021. Of all recorded homicides in the latest year, the method of killing by knife 
+or sharp instrument was 42% of offences, an increase from 39% in the previous year.
+
+For the latest headline figures relating to homicide and more detailed figures including data time series, 
+see Appendix tables and Other related tables. For police force area breakdowns see Police force area data tables.
+
+Back to table of contents
+4.Knife or sharp instrument offences
+Police recorded crime provides a better measure than the Crime Survey for England and Wales (CSEW) of 
+higher-harm but less common types of violence, such as those involving a knife or sharp instrument (knife-enabled crime).
+
+!
+Figures referenced in this section are not directly comparable with those previously published because of 
+a change in knife or sharp instrument data collection practices.
+
+There was a 10% decrease in knife-enabled crime recorded by the police in the year ending September 2021 
+(46,239 offences) compared with the previous year. This was driven by a 20% decrease in robbery offences 
+to 16,601.
+
+The largest decreases in total knife-enabled crime were seen in October to December 2020 and January to 
+March 2021 with offences down by 16% and 22% compared with respective periods in the previous year. Both 
+these periods coincided with national lockdowns and the highest levels of restrictions on social contact. 
+Police recorded data in the last six months show an increase in knife-enabled crime following the ease of 
+lockdown restrictions, however, levels are still below those seen before the coronavirus (COVID-19) pandemic.
+
+Figure 5: Knife-enabled crime decreased in the latest year driven by a decrease in robbery offences
+England and Wales (excluding Greater Manchester Police), year ending March 2011 to year ending September 2021
+Assault with injury and assault with intent to cause serious harmRobberyThreats to killOther selected offencesSep 
+21Sep 20Mar 19Mar 18Mar 17Mar 16Mar 15Mar 14Mar 13Mar 12Mar 1105,00010,00015,00020,00025,000Number of offences
+Source: Home Office - Police recorded crime
+Notes:
+Greater Manchester Police reviewed their recording of offences involving knives or sharp instruments in December 
+2017 which revealed that they were under-counting these offences. Previous data were not revised at the time 
+and therefore data from Greater Manchester Police are excluded to allow for comparison over time.
+An adjustment has been made to data prior to the year ending March 2020 for police forces who are now using the 
+NDQIS tool and the total for England and Wales. For more information on the adjustment to the time series and 
+the differences in data collection methods, please see the methodology note ‘Police recorded offences involving 
+knives or sharp instruments: methodology changes’.
+Other selected offences include rape, attempted murder, homicide, and sexual assault.
+Download this chartFigure 5: Knife-enabled crime decreased in the latest year driven by a decrease in robbery 
+offences
+Image .csv .xls
+Knife or sharp instrument offences are concentrated in urban areas1. For the three police force areas (PFAs) 
+with the highest volume of knife-enabled crime we have seen:
+
+a 17% decrease in the Metropolitan Police PFA2
+an 8% decrease in the West Midlands PFA
+a 2% increase in Greater Manchester PFA
+Police recorded “possession of article with a blade or point”3 offences increased by 5% to 22,542 in the year 
+ending September 2021. This could have been influenced by increases in targeted police action.
+
+The Home Office and police forces have continued to roll out a new methodology for identifying recorded offences 
+involving knives or sharp instruments (knife-enabled crime). Thirty-three forces have now switched to the National 
+Data Quality Improvement Service (NDQIS) data collection methodology4. The aim is to roll out the new methodology 
+to all forces in England and Wales over the next year. Estimates in this release include a combination of both new 
+and old data collection methods.
+
+For more information, including the differences in data collection methods, please see the methodology note Police 
+recorded offences involving knives or sharp instruments, methodology changes and blog.
+
+Other sources of data
+The latest available provisional admissions data for NHS hospitals in England and Wales reported a 12% decrease 
+in admissions for assault by a sharp object in the year ending September 2021 (to 4,005 admissions).
+
+For data relating to knife-enabled crime see Other related tables, for geographic breakdowns see Police force area 
+data tables and for sharp instrument homicides see Appendix tables: homicide in England and Wales. Data related to 
+stop and searches can be found in the Home Office publication Police powers and procedures.
+
+Notes for: Knife or sharp instrument offences
+Data cannot be compared across all police forces because of changes in data collection methods. Thirty-three police 
+forces have now switched to the NDQIS data collection method. Remaining police forces are still submitting knife or 
+sharp instrument offences data via a special collection. For more information, please see the methodology note Police 
+recorded offences involving knives or sharp instruments: methodology changes.
+
+Includes the Metropolitan and City of London Police Force Areas.
+
+Offences of “possession of an article with a blade or point” are covered separately by a specific recorded crime 
+category, which is the specific crime of possessing an article with a blade or point illegally.
+
+The 33 forces that have switched to the NDQIS data collection method are: Avon and Somerset, Cambridgeshire, 
+Cheshire, City of London, Cleveland, Cumbria, Derbyshire, Devon and Cornwall, Durham, Dyfed-Powys, Essex, Greater 
+Manchester, Hampshire, Hertfordshire, Humberside, Kent, Lancashire, Leicestershire, Lincolnshire, Merseyside, 
+Metropolitan Police, Norfolk, North Wales, Northamptonshire, Nottinghamshire, South Wales, South Yorkshire, Suffolk, 
+Surrey, Sussex, Thames Valley, West Midlands and West Yorkshire. Remaining police forces are still submitting knife 
+and sharp instrument offences data via a special collection.
+
+Back to table of contents
+5.Offences involving firearms
+Police recorded offences involving firearms decreased by 9% to 5,653 offences in the year ending September 2021 
+compared with 6,244 offences in the previous year. This decrease may be related to national lockdown restrictions 
+that occurred throughout the year. Offences involving firearms have not returned to levels seen before the 
+coronavirus (COVID-19) pandemic, and are at their lowest level since the year ending March 2016.
+
+Figure 6: Crimes involving firearms show a 9% decrease compared with the previous year
+England and Wales year ending March 2003 to year ending September 2021
+ShotgunsHandgunsRiflesImitation firearmsUnidentified firearmsOther firearmsSep 21Mar 18Mar 16Mar 14Mar 12Mar 10Mar 
+08Mar 06Mar 0401,0002,0003,0004,0005,0006,000Number of offences
+Mar 16
+● Shotguns: 411
+● Handguns: 2,157
+● Rifles: 48
+● Imitation firearms: 1,431
+● Unidentified firearms: 666
+● Other firearms: 469
+Source: Home Office - Police recorded crime
+Notes:
+More explicit guidelines for the classification of weapons introduced on 1 April 2004 may have increased the recording 
+of firearm offences, particularly those committed by imitation weapons.
+Excludes offences involving the use of conventional air weapons, such as air rifles and offences recorded by British 
+Transport Police. Includes crimes recorded by police where a firearm has been fired, used as a blunt instrument against 
+a person or used as a threat.
+Most police forces have made data quality and recording improvements which means data from earlier years are not directly 
+comparable with recent years. Some forces have also revised data, which means data may not match earlier publications.
+Imitation firearms include replica weapons, as well as low-powered weapons which fire small plastic pellets, such as 
+BB guns and soft air weapons.
+Download this chartFigure 6: Crimes involving firearms show a 9% decrease compared with the previous year
+Image .csv .xls
+For data relating to offences involving weapons see Offences involving the use of weapons: data tables. For data 
+relating to offences involving firearms see Other related tables.
+
+Back to table of contents
+6.Violence
+The Crime Survey for England and Wales (CSEW) provides the best picture of the overall trend in violent crime.
+
+Estimates from the Telephone-operated Crime Survey for England and Wales (TCSEW) showed that there were 1.8 million 
+violent offences in the year ending September 2021 (Appendix Table A2). Using a comparable dataset adjusted for 
+changes in the sample and questionnaire between the CSEW and TCSEW (see Appendix Table A3), there was no significant 
+change in total violent incidents compared with the year ending September 2019.
+
+Figure 7: The CSEW shows long-term reductions in violent crime
+England and Wales, annual estimates
+March 2020:Face-to-face interviewing wassuspended owing to COVID-19causing a break in the CSEWtime series.
+Estimates fromthe TCSEW arecompared withthe year endingSeptember 2019CSEW usingcomparable dataand are not partof the 
+mainCSEW timeseries.
+ViolenceViolence with injuryViolence without injurySep 21(TCSEW)Mar 18Mar 12Mar 06Dec 97Dec 8101,0002,0003,0004,0005,
+000Number of incidents (thousands)
+Mar 16
+● Violence: 1,468
+● Violence with injury: 631
+● Violence without injury: 837
+Source: Office for National Statistics – Crime Survey for England and Wales (CSEW) and Telephone-operated Crime Survey 
+for England and Wales (TCSEW)
+Notes:
+Data from the TCSEW are published as Experimental Statistics.
+Data on this chart refer to different time periods: 1981 to 1999 refer to crimes experienced in the calendar year; and 
+from year ending March 2002 onwards the estimates relate to crimes experienced in the 12 months before interview, based 
+on interviews carried out in that financial year.
+TCSEW data presented here for 2021 are not comparable with CSEW estimates. CSEW data relate to adults aged 16 years 
+and over, or to households. TCSEW data relate to adults aged 18 years and over, or to households. See Appendix Table 
+A3 for comparable data.
+Download this chartFigure 7: The CSEW shows long-term reductions in violent crime
+Image .csv .xls
+Although the TCSEW indicated no change in the total number of violence incidents, there was a 27% decrease in the 
+number of victims compared with the year ending September 2019. (Appendix Table A3). This was largely driven by 
+falls in the prevalence of violence where the offender was a stranger. This likely reflects a decrease in violence 
+taking place in public spaces during national lockdown restrictions. However, there has been a large but non-significant 
+increase in acquaintance violence1. These estimates of violence are not indicative of levels of domestic abuse during 
+the coronavirus (COVID-19) pandemic since the TCSEW was not able to produce such estimates.
+
+Police recorded crime data showed a 3% decrease in violence with injury, to 499,880 offences, but a 3% increase in 
+violence without injury (736,185 offences) in the year ending September 2021.
+
+Overall, total police recorded violence was 8% higher than the previous year. Much of this increase was driven by 
+a rise in the number of stalking and harassment offences, which increased 21% (excluding controlling and 
+coercive behaviour)2 in the year ending September 2021. This may be caused by improvements made by police forces 
+in identifying and recording stalking and harassment offences together with an increased confidence in victims 
+coming forward to report these offences.
+
+For more detailed figures relating to violent crime, including a data time series, see Appendix tables.
+
+Notes for: Violence
+Acquaintance violence includes victims who knew one or more offenders, at least by sight; it does not include 
+domestic violence (between partners, ex-partners or family members).
+
+From April 2020, controlling and coercive behaviour was categorised under the stalking and harassment offence 
+category. To allow for comparison with the previous year, controlling and coercive behaviour has been removed 
+from overall stalking and harassment figures.
+
+Back to table of contents
+7.Domestic abuse and sexual offences
+!
+Domestic abuse-related crimes and sexual offences recorded by the police do not provide a reliable measure of 
+trends in these types of crime. Improvements in police recording practices and increased reporting by victims 
+have contributed to increases in recent years. The figures do, however, provide a good measure of the crime-related 
+demand on the police.
+
+The Crime Survey for England and Wales (CSEW) provides a more reliable measure of long-term trends in domestic abuse, 
+sexual assault, stalking and harassment. Questions related to these offences had to be suspended with the move to 
+telephone interviewing from May 2020.
+
+Domestic abuse
+Police recorded crime data, in isolation, do not provide a measure of prevalence to understand the true extent of 
+domestic abuse. Therefore, figures presented in this release should be interpreted with caution.
+
+The police recorded 872,911 offences (excluding fraud) flagged as domestic abuse-related in the year ending 
+September 2021. This represents a 5% increase from 835,319 offences in the same period in the previous year. 
+This included 694,385 violence against the person offences flagged as domestic abuse-related, a 5% increase 
+compared with the year ending September 2020.
+
+Some of this increase may reflect improvements seen in reporting over the last few years. Following the 
+suspension of the CSEW, we were unable to draw upon analysis from the crime survey as we cannot collect survey 
+data on domestic abuse. This is because of concerns around confidentiality and respondent safeguarding, which 
+limit the types of questions asked via the Telephone-operated Crime Survey for England and Wales.
+
+Given this, we cannot conclude whether there has been an increase in the number of victims of domestic abuse. 
+However, data from victim services suggest that experiences of domestic abuse may have intensified during periods 
+of national lockdown and that victims faced difficulties in safely seeking support under these conditions.
+
+Further information and data related to domestic abuse can be found in Domestic abuse in England and Wales overview: 
+November 2021.
+
+Sexual offences
+Police recorded data need to be treated with caution, particularly in the absence of survey data. High levels of 
+non-reporting combined with changes in reporting trends can have a significant impact on sexual offences recorded 
+by the police. Prior to the coronavirus (COVID-19) pandemic, the number of police recorded sexual offences was 
+well below the number of victims estimated by the crime survey, with fewer than one in six victims of rape or 
+assault by penetration reporting the crime to the police.
+
+The latest figures may reflect a number of factors, including the impact of high-profile incidents, media coverage 
+and campaigns on people’s willingness to report incidents to the police, as well as a potential increase in the number 
+of victims. The overall trend is also currently difficult to disentangle from the impact of lockdowns. Offences 
+recorded by the police dropped noticeably during the spring 2020 lockdown before rebounding to previous levels 
+in the July to September 2020 quarter. The winter 2020 to 2021 lockdowns saw a smaller reduction in the number 
+of sexual offences recorded by the police but a greater level of increase in these offences in the subsequent 
+quarters.
+
+The number of sexual offences recorded by the police showed a 12% increase in the year ending September 2021 
+(170,973 offences) compared with the same period in the previous year. This is the highest number of sexual 
+offences recorded within a 12-month period, driven by noticeable increases since April 2021. The period July 
+to September 2021 saw the second-highest recorded quarterly figure (47,643 offences), following the highest 
+recorded figures in April to June 2021 (48,131 offences) (see Figure 8).
+
+Rape accounted for 37% of all sexual offences recorded by the police. The number of rape offences in the year 
+ending September 2021 was the highest recorded annual figure to date (63,136 offences). This was driven by a 
+large increase across the last six months of the year, with 17,189 offences recorded in April to June 2021, 
+followed by a further increase to 17,419 offences in July to September 2021. This is the highest number of 
+rape offences recorded within a quarter in England and Wales.
+
+Figure 8: July to September 2021 had the highest quarterly police recorded rape offences although sexual 
+offences overall reached the highest level in the previous quarter
+England and Wales quarterly data from April 2009 to September 2021
+October 2012:Operation Yewtreelaunched.
+November 2014:Publication of HMICFRSreports highlighting theissues in recordingpractices for sexual offences.
+Periods of nationallockdown duringCovid-19.
+Sexual offencesRapeJul to Sep 21Jul to Sep 19Jul to Sep 17Jul to Sep 15Jul to Sep 13Jul to Sep 11Jul to 
+Sep 09010,00020,00030,00040,00050,00060,000Number of offences
+Jul to Sep 18
+● Sexual offences: 41,882
+● Rape: 15,555
+Source: Home Office - Police recorded crime
+Notes:
+Operation Yewtree is the police investigation into allegations of sexual abuse, launched in the wake 
+of the Jimmy Savile scandal.
+Download this chartFigure 8: July to September 2021 had the highest quarterly police recorded rape 
+offences although sexual offences overall reached the highest level in the previous quarter
+Image .csv .xls
+Further data related to sexual offences can be found in the Sexual offences in England and Wales overview: 
+year ending March 2020 publication.
+
+CSEW data on the prevalence of domestic abuse, sexual assault and stalking for the year ending March 
+2020 can be found in Table S42 in Annual supplementary tables.
+
+For information about Her Majesty’s Inspectorate of Constabulary and Fire and Rescue Services (HMICFRS) 
+inspections of police recorded crime and incident data quality see our User guide to crime statistics for 
+England and Wales: Measuring crime during the Coronavirus (COVID-19) pandemic.
+
+Back to table of contents
+8.Theft offences
+The Crime Survey for England and Wales (CSEW) is the most reliable indicator for long-term trends in 
+the more common types of crime experienced by the general population, such as theft. However, police 
+recorded crime data can give reliable indications of trends in some offences involving theft (for example, 
+domestic burglary) and may provide a better measure of short-term trends.
+
+There were 3 million incidents of theft estimated by the Telephone-operated Crime Survey for England and 
+Wales (TCSEW) for the year ending September 2021 (Appendix Table A2). This was an 18% decrease compared 
+with the year ending September 2019 (Appendix Table A3). This large fall was seen across most sub-categories, 
+with the largest fall of 53% seen in the “theft from the person” offence, followed by a 26% decrease in 
+vehicle-related offences and a 23% decrease in bicycle theft offences.
+
+A similar pattern was seen in police recorded theft offences, which decreased by 14% in the year ending 
+September 2021 compared with the same period in the previous year, from 1.6 million to 1.4 million offences. 
+This was driven by decreases in offences such as: burglary (21%), theft from the person (20%), vehicle 
+offences (14%) and shoplifting (13%). However, there was a 9% increase in metal theft offences (to 19,044) 
+recorded by the police in England and Wales for the year ending March 2021 following improved recording of 
+catalytic converter theft by the Metropolitan Police.
+
+Police recorded robbery offences decreased by 18% in the year ending September 2021 compared with the same 
+period in the previous year, from 75,159 to 61,486 offences.
+
+All these falls were likely to be driven by national lockdown restrictions, with non-essential shops and 
+the night-time economy being closed and people spending more time in their homes. However, police recorded 
+crime data indicate theft offences such as theft of a motor vehicle and bicycle theft are starting to return 
+to levels seen before the coronavirus (COVID-19) pandemic (see Other related tables).
+
+For the latest headline figures relating to theft and for more detailed figures, including data time series, 
+see Appendix tables and our latest Property crime tables.
+
+Figure 9: The CSEW shows long-term reductions in theft offences
+England and Wales, annual estimates
+March 2020:Face-to-face interviewing wassuspended because of COVID-19causing a break in the CSEWtime-series.
+Estimates fromthe TCSEW arecompared with thethe year endingSept 2019 CSEWusing comparabledata and arenot part 
+of themain CSEWtime series.
+All theftDomestic burglaryVehicle-related theftOther household theftSep 21(TCSEW)Mar 18Mar 12Mar 06Dec 97Dec 
+8102,5005,0007,50010,00012,500Number of incidents (thousands)
+Source: Office for National Statistics – Crime Survey for England and Wales (CSEW) and Telephone-Operated 
+Crime Survey for England and Wales (TCSEW)
+Notes:
+Data from the TCSEW are published as Experimental Statistics.
+Data on this chart refer to different time periods: 1981 to 1999 refer to crimes experienced in the calendar year; 
+and from year ending March 2002 onwards the estimates relate to crimes experienced in the 12 months before 
+interview, based on interviews carried out in that financial year.
+TCSEW data presented here for 2021 are not comparable with CSEW estimates. CSEW data relate to adults aged 
+16 years and over or to households. TCSEW data relate to adults aged 18 years and over or to households. 
+See Appendix Table A3 for comparable data.
+Download this chartFigure 9: The CSEW shows long-term reductions in theft offences
+Image .csv .xls
+Back to table of contents
+9.Fraud
+Fraud estimates do not follow the trend of falling victimisation seen in other crime types over the lockdown 
+periods. Estimates from the Telephone-operated Crime Survey for England and Wales (TCSEW) showed that there 
+were 5.1 million fraud offences in the year ending September 2021 (Appendix Table A2). This is a 36% increase 
+compared with the year ending September 2019 (Appendix Table A3).
+
+This included large increases in “advance fee fraud”, “consumer and retail fraud” and “other fraud” and may 
+indicate fraudsters taking advantage of behaviour changes related to the coronavirus (COVID-19) pandemic, such 
+as increased online shopping and increased savings. For example, advance fee fraud offences included scams where 
+victims transferred funds to fraudsters for postal deliveries; other fraud included investment opportunity scams. 
+A minority (26%) of these offences resulted in loss of money or property, with no or only partial reimbursement.
+
+Fraud offences reported to the police are recorded and collected by the National Fraud Intelligence Bureau (NFIB) 
+from Action Fraud and two industry bodies, Cifas and UK Finance. Action Fraud (the public-facing national fraud and 
+cybercrime reporting centre) reported a 27% rise in fraud offences (to 413,417 offences) compared with the year 
+ending September 2020. The data showed a 42% increase in “financial investment fraud” offences in the last year 
+(from 15,702 to 22,372 offences) and an 18% rise in “advance fee payments” (from 43,555 to 51,407 offences).
+
+NFIB data showed referrals from Cifas (who report instances of fraud where their member organisations have been 
+victims) increased 5% (to 319,512 offences) compared with the year ending September 2020 while UK Finance reported 
+a 49% increase (to 155,757 offences).
+
+Many cases recorded separately by UK Finance (via a fraud reporting database called CAMIS) are not reported to 
+the NFIB because they hold insufficient information to be of value from an intelligence perspective. UK Finance 
+reported a 5% increase in fraud incidents (to 3.2 million incidents) in CAMIS. There was a 53% increase in remote 
+banking fraud (to 94,757 incidents), which reflects the greater number of people now regularly using internet, 
+telephone and mobile banking, and the attempts by fraudsters to take advantage of this.
+
+For the latest headline figures relating to fraud and for more detailed figures, including a data time series, 
+see Appendix tables, Other related tables and Police force area tables.
+
+Back to table of contents
+10.Computer misuse
+Estimates from the Telephone-operated Crime Survey for England and Wales (TCSEW) showed that there were 1.9 million 
+computer misuse offences in the year ending September 2021 (Appendix Table A2). This was an 89% increase compared with 
+the year ending September 2019, largely driven by a 161% increase in “Unauthorised access to personal information 
+(including hacking)” offences (Appendix Table A3). This included victims’ details being compromised via large-scale 
+data breaches, and victims’ email or social media accounts being compromised. Our most recent Nature of fraud and 
+computer misuse tables reported that 54% of victims were not impacted at all by such incidents.
+
+The National Fraud Intelligence Bureau (NFIB) also reported a 17% increase in “Hacking – personal” offences referred 
+by Action Fraud (from 4,498 to 5,258 offences). See Appendix Table A5.
+
+The TCSEW provides a better indication of the volume of computer misuse offences experienced by the adult population 
+as it captures incidents that go unreported to the police. This can be seen by the large difference in the volume of 
+computer misuse offences between the two sources, which also cannot be compared because of differences in coverage.
+
+For the latest headline figures relating to computer misuse and for more detailed figures see Appendix tables and Other 
+related tables. Additionally, the Nature of crime: fraud and computer misuse tables hold more in-depth information about 
+these offences from year ending March 2021 data.
+
+Back to table of contents
+11.Anti-social behaviour
+The Telephone-operated Crime Survey for England and Wales (TCSEW) showed that 26% of adults personally witnessed or 
+experienced anti-social behaviour in their area in the last 12 months.
+
+Estimates from the TCSEW showed that 47% of adults noticed individuals breaching virus restrictions in their local area 
+since the coronavirus (COVID-19) pandemic began. Of these, 7% reported the breach to the police.
+
+TCSEW includes a measure of harassment that covers adults experiencing being insulted, called names, threatened or 
+shouted at in public spaces. These estimates showed that 7% of adults experienced these types of harassment in the year 
+ending September 2021. Where a specific perceived reason for the harassment was given, the most common was because of the 
+coronavirus pandemic (27%). This included experiences related to social distancing and lockdown restrictions.
+
+The most common non-coronavirus-related perceived reason for these experiences was their education, income level or job 
+(10%), followed by race or ethnicity (6%).
+
+The police recorded 1.7 million incidents of anti-social behaviour (ASB) in the year ending September 2021, a 9% decrease 
+compared with the year ending September 2020. Anti-social behaviour was particularly high early on in the year, with the 
+highest number of incidents recorded in January to March 2021 (448,776 offences), which is likely to reflect the reporting 
+of breaches to public health restrictions. This was offset by continued decreases in April to June 2021 (419,128 offences) 
+and July to September 2021 (356,833 offences). 
